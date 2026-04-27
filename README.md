@@ -13,6 +13,7 @@ Crouch(Shadow veil) - C
 Map - Tab
 
 The goal is to find and retrieve the classified documents without being caught
+
 <img width="426" height="240" alt="Takedown" src="https://github.com/user-attachments/assets/7de3ea33-9d2b-40ae-be79-73dd1516e536" />
 
 Do your best to stay in the shadows by crouching and learn more about the facility by listening in on the enemies on patrol
