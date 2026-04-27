@@ -5,12 +5,19 @@ My centerpiece project where I took it a step further with AI behavior. Instead 
 
 # Game Summary:
 Controls:
+
 Movement - WASD
+
 Interact - E
+
 Shooting/Takedown - Left Click
+
 Aiming - Right Click
+
 Crouch(Shadow veil) - C
+
 Map - Tab
+
 
 The goal is to find and retrieve the classified documents without being caught
 
